@@ -1,6 +1,6 @@
 🌟 Ricardo's GitHub Profile
 <p align="center">
-<img src="https://media.giphy.com/media/3o7aCTPPm4x1yu8E8E/giphy.gif" width="400" alt="AI Animation" /> <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="Unity Animation" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5iYzgxdzBuc2g5YzE2ZzI0enJpM29zczMxYzNwbXRteWdkaWJnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9tZc9Mzo9K0yOYx38U/giphy.gif" width="400" alt="AI Animation" /> <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="Unity Animation" />
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=800&lines=Greetings%2C%20this%20is%20Ricardo%20🤖;AI%20%26%20Reinforcement%20Learning%20Enthusiast;Exploring%20Unity%20ML-Agents%20%26%20CPython%20🚀;Studying%20at%20National%20Supercomputing%20Center%20Zhengzhou%20🖥️" alt="Typing Animation" />
