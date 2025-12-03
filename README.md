@@ -125,5 +125,5 @@
 ---
 
 <p align="center" style="margin-top: 30px; color: #666; font-size: 14px;">
-  ⭐️ Last Updated: <script>document.write(new Date().toLocaleString('en-US', { year: 'numeric', month: 'long' }));</script>
+  ⭐️ Last Updated: 2025
 </p>
