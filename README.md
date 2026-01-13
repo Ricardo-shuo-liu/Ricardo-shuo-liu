@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/github/commit-activity/y/Ricardo-shuo-liu?style=flat-square&logo=git&color=orange" alt="Commit Activity" />
   </a>
   <a href="https://github.com/Ricardo-shuo-liu?tab=contributions" target="_blank">
-    <img src="https://img.shields.io/github/contributions/Ricardo-shuo-liu/Ricardo-shuo-liu?style=flat-square&logo=github&color=cyan" alt="Total Contributions" />
+    <img src="https://img.shields.io/github/contributions/Ricardo-shuo-liu?style=flat-square&logo=github&color=cyan" alt="Total Contributions" />
   </a>
 </div>
 
@@ -89,19 +89,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://stats.justsong.cn/api/github-stats?username=Ricardo-shuo-liu&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="190" alt="GitHub Stats" />
-  <img src="https://stats.justsong.cn/api/top-langs?username=Ricardo-shuo-liu&layout=compact&theme=radical&hide_border=true&langs_count=8" height="190" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://ghproxy.com/https://github-profile-trophy.vercel.app/?username=Ricardo-shuo-liu&theme=tokyonight&row=1&column=6&hide_border=true" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ricardo-shuo-liu&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="190" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ricardo-shuo-liu&layout=compact&theme=radical&hide_border=true&langs_count=8" height="190" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🔥 Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" style="border-radius: 8px; width: 95%;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ricardo-shuo-liu&theme=react-dark&hide_border=true&area=true&height=230" alt="Contribution Snake Animation" style="border-radius:8px;width:95%;" />
 </p>
 
 ---
@@ -127,6 +123,6 @@
 
 ---
 
-<p align="center" style="color: #666; font-size: 14px;">
-  ⭐️ Last Updated: 2025
+<p align="center">
+  <span style="color: #666;">⭐️ Last Updated: 2025</span>
 </p>
