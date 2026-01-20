@@ -35,7 +35,7 @@
 <p align="center"><strong>Core Focus & Background</strong></p>
 
 > **Key Interests**: Artificial Intelligence, Reinforcement Learning, Intelligent Agents, CPython Internals  
-> **Education**: Sophomore at Henan University of Economics and Law (HUEL)  
+> **Education**: Technische Universität Dresden
 > **Membership**: Chinese Association for Artificial Intelligence (CAAI)  
 
 - 🔭 Focus on **Artificial Intelligence**, **Reinforcement Learning**, **Intelligent Agents**, and **CPython Internals**
