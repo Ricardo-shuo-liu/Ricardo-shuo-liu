@@ -33,10 +33,5 @@
 
 ### 📫 Let's Connect
 <p align="center">
-  Welcome to chat about **AI Infra, RL Agents & C++/Python Optimization!** <br>
-  📧 <a href="mailto:13838152117@139.com">13838152117@139.com</a>
-</p>
-
-<p align="center">
-  <span style="color: #666;">⭐️ Last Updated: 2026</span>
+  Welcome to chat about *AI Infra & RL Agents!* <br>
 </p>
