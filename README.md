@@ -4,7 +4,7 @@
   <a href="mailto:13838152117@139.com" target="_blank"><img src="https://img.shields.io/badge/139%20Mail-0066CC.svg?&style=flat-square&logo=mail.ru&logoColor=white&size=large" alt="139 Mail"></a>
   <a href="https://ricardo-shuo-liu.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-61DAFB.svg?&style=flat-square&logo=google-chrome&logoColor=white&size=large" alt="Website"></a>
   <a href="https://x.com/Ricardoshuoliu" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2.svg?&style=flat-square&logo=x&logoColor=white&size=large" alt="X Profile"></a>
-  <a href="https://blog.csdn.net/Ricardo.刘" target="_blank"><img src="https://img.shields.io/badge/CSDN-F56C6C.svg?&style=flat-square&logo=csdn&logoColor=white&size=large" alt="CSDN Blog"></a>
+  <a href="https://blog.csdn.net/2401_88165744?spm=1000.2115.3001.10640" target="_blank"><img src="https://img.shields.io/badge/CSDN-F56C6C.svg?&style=flat-square&logo=csdn&logoColor=white&size=large" alt="CSDN Blog"></a>
 </p>
 
 > Passionate about **AI Infra & Intelligent Agent R&D**
