@@ -5,6 +5,10 @@
   <a href="https://ricardo-shuo-liu.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-61DAFB.svg?&style=flat-square&logo=google-chrome&logoColor=white&size=large" alt="Website"></a>
   <a href="https://x.com/Ricardoshuoliu" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2.svg?&style=flat-square&logo=x&logoColor=white&size=large" alt="X Profile"></a>
   <a href="https://blog.csdn.net/2401_88165744?spm=1000.2115.3001.10640" target="_blank"><img src="https://img.shields.io/badge/CSDN-F56C6C.svg?&style=flat-square&logo=csdn&logoColor=white&size=large" alt="CSDN Blog"></a>
+  <!-- 新增：PyPI 链接徽章 -->
+  <a href="https://pypi.org/user/flyRicardo/" target="_blank"><img src="https://img.shields.io/badge/PyPI-3775A9.svg?&style=flat-square&logo=pypi&logoColor=white&size=large" alt="PyPI Profile"></a>
+  <!-- 新增：Gravatar 链接徽章 -->
+  <a href="https://gravatar.com/stupendous21714d8b4f" target="_blank"><img src="https://img.shields.io/badge/Gravatar-6567A5.svg?&style=flat-square&logo=gravatar&logoColor=white&size=large" alt="Gravatar Profile"></a>
 </p>
 
 > Passionate about **AI Infra & Intelligent Agent R&D**
@@ -35,3 +39,4 @@
 <p align="center">
   Welcome to chat about *AI Infra & RL Agents!* <br>
 </p>
+
