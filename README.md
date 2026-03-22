@@ -5,7 +5,6 @@
   <a href="https://ricardo-shuo-liu.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-61DAFB.svg?&style=flat-square&logo=google-chrome&logoColor=white&size=large" alt="Website"></a>
   <a href="https://x.com/Ricardoshuoliu" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2.svg?&style=flat-square&logo=x&logoColor=white&size=large" alt="X Profile"></a>
   <a href="https://pypi.org/user/flyRicardo/" target="_blank"><img src="https://img.shields.io/badge/PyPI-3775A9.svg?&style=flat-square&logo=pypi&logoColor=white&size=large" alt="PyPI Profile"></a>
-  <!-- 新增：Hugging Face 链接徽章 -->
   <a href="https://huggingface.co/flyRicardo" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?&style=flat-square&logo=huggingface&logoColor=black&size=large" alt="Hugging Face Profile"></a>
 </p>
 
@@ -26,7 +25,7 @@
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&size=large">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white&size=large">
-  <br/>
+  <br/><br/>
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&size=large">
   <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C5C?style=flat-square&logo=langchain&logoColor=white&size=large">
 </p>
@@ -35,5 +34,10 @@
 
 ### 📫 Let's Connect
 <p align="center">
-  Welcome to chat about *AI Infra & RL Agents!* <br>
+  🎯 Feel free to chat with me about <b>AI Infra & RL Agents</b>!<br/><br/>
+  📧 <b>Mainland China</b>: <a href="mailto:13838152117@139.com">13838152117@139.com</a> 
+  <span style="color:#666;">• Response in 1-2 days</span><br/>
+  🌎 <b>International</b>: <a href="mailto:ricardoshuoliu@gmail.com">ricardoshuoliu@gmail.com</a> 
+  <span style="color:#666;">• Response in 1-5 days</span>
 </p>
+
