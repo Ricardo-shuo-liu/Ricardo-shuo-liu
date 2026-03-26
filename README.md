@@ -1,6 +1,6 @@
 Hi there, I'm Ricardo!
 
-I’m interested in AI Infra and machine learning.
+I’m interested in Infra(AI & CS) and machine learning.
 
 Currently, I’m learning about reinforcement learning, intelligent agents, and embodied intelligence (still exploring and growing in these areas).
 
