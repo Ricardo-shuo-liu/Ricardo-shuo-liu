@@ -2,7 +2,7 @@ Hi there, I'm Ricardo!
 
 I’m interested in Infra(AI & CS) and machine learning.
 
-Currently, I’m learning about reinforcement learning, intelligent agents, and embodied intelligence (still exploring and growing in these areas).
+Currently, I’m learning about reinforcement learning, intelligent agents, and embodied intelligence .
 
 Previously, I (in the opposite direction of my current learning focus) worked on NLP and LLM-related projects .
 
